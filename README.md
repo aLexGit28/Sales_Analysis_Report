@@ -4,14 +4,14 @@
 
 ### To access all of the files I recommend you fork this repo and then clone it locally.
 Instructions on how to do this can be found here:  
-(https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+https://docs.github.com/en/get-started/quickstart/fork-a-repo
 <br />
 <br />
 The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 <br />
 <br />
-Installing Jupyter Notebook: (https://docs.jupyter.org/en/latest/install.html)  
-Installing Pandas library: (https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+Installing Jupyter Notebook: https://docs.jupyter.org/en/latest/install.html  
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html  
 
 ## Background Information:
  
